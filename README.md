@@ -2,6 +2,14 @@
 Official github repository for the game HappyPlace
 A game meant to be your happy place. A place to enjoy the little things of life, improving yours in the process!
 
+## Instructions for playing
+- Head to our itch.io page: https://theraff.itch.io/happyplace
+- Click run game
+- Run directly on your browser!
+
+## Link to our WINNING devpost
+- https://devpost.com/software/happyplace-l63o24
+
 ![image](https://user-images.githubusercontent.com/38381290/149659096-e9871a90-5c95-43b0-bc5a-be2a74727b31.png)
 
 
